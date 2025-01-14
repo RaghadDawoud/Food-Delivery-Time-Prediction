@@ -29,4 +29,5 @@ The dataset is designed to help predict food delivery times based on multiple in
 4. **Evaluation**: Assessing the model's performance using metrics such as Mean Squared Error (MSE) and R² score.  
 
 
+
 This project provided hands-on experience in predicting food delivery times using linear regression, focusing on key factors like distance, weather, traffic, and courier experience. It can be improved by incorporating more advanced models, additional features, and further tuning for better accuracy. 
