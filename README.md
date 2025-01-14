@@ -1,4 +1,4 @@
-# Food Delivery Time Prediction (### Using Linear Regression Model)📦
+# Food Delivery Time Prediction Using Linear Regression Model 📦
 
 This project focuses on predicting food delivery times by leveraging a linear regression model. By examining key factors such as distance, weather conditions, traffic levels, and courier experience, the project aims to uncover patterns that influence delivery efficiency. The ultimate goal is to provide actionable insights for optimizing food delivery services, improving customer satisfaction, and enhancing operational effectiveness.  
 
